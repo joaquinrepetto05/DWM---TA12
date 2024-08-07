@@ -1,0 +1,16 @@
+/* Ambos elementos */
+.both {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+/* Primer elemento */
+.first {
+    background-color: black;
+    color: white;
+}
+
+/* Segundo elemento */
+.second {
+    background-color: yellow;
+}
